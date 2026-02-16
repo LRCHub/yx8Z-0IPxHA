@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "by her",
+  "base_artist": "Kid Fresino",
+  "createdAt": "2026-02-16T16:12:31.721504Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Haunted By Her Yesterdays",
+      "artist": "Logistics",
+      "has_synced": false,
+      "path": "select/01_Haunted_By_Her_Yesterdays_Logistics.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "By Her",
+      "artist": "Beth Hart",
+      "has_synced": false,
+      "path": "select/02_By_Her_Beth_Hart.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "As I Sat Sadly By Her Side",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": true,
+      "path": "select/03_As_I_Sat_Sadly_By_Her_Side_Nick_Cave_&_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "By Her Window",
+      "artist": "Before I Turn",
+      "has_synced": true,
+      "path": "select/04_By_Her_Window_Before_I_Turn.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Withered by Her Curse",
+      "artist": "Advent Sorrow",
+      "has_synced": true,
+      "path": "select/05_Withered_by_Her_Curse_Advent_Sorrow.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If We Have Each Other (Always By Her Side) - Sped Up Version",
+      "artist": "sped up nightcore feat. Alec Benjamin",
+      "has_synced": true,
+      "path": "select/06_If_We_Have_Each_Other_(Always_By_Her_Side)_-_Sped_Up_Version_sped_up_nightcore_feat._Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If We Have Each Other (Always By Her Side",
+      "artist": "sped up nightcore, Alec Benjamin",
+      "has_synced": true,
+      "path": "select/07_If_We_Have_Each_Other_(Always_By_Her_Side_sped_up_nightcore,_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "flowers by her grave",
+      "artist": "Savage Ga$p feat. KAMAARA & $werve",
+      "has_synced": true,
+      "path": "select/08_flowers_by_her_grave_Savage_Ga$p_feat._KAMAARA_&_$werve.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "flowers by her grave",
+      "artist": "Savage Ga$p",
+      "has_synced": true,
+      "path": "select/09_flowers_by_her_grave_Savage_Ga$p.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "As I Sat Sadly by Her Side",
+      "artist": "Nick Cave and the Bad Seeds",
+      "has_synced": true,
+      "path": "select/10_As_I_Sat_Sadly_by_Her_Side_Nick_Cave_and_the_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "By Her Side",
+      "artist": "Mindy McCready",
+      "has_synced": true,
+      "path": "select/11_By_Her_Side_Mindy_McCready.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If We Have Each Other (Always By Her Side) [Sped Up Version] (Sped Up Version)",
+      "artist": "sped up nightcore, Alec Benjamin",
+      "has_synced": true,
+      "path": "select/12_If_We_Have_Each_Other_(Always_By_Her_Side)_[Sped_Up_Version]_(Sped_Up_Version)_sped_up_nightcore,_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If We Have Each Other (Always By Her Side) [Sped Up Version]",
+      "artist": "sped up nightcore",
+      "has_synced": true,
+      "path": "select/13_If_We_Have_Each_Other_(Always_By_Her_Side)_[Sped_Up_Version]_sped_up_nightcore.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If We Have Each Other (Always By Her Side) [Sped Up Version]",
+      "artist": "sped up nightcore & Alec Benjamin",
+      "has_synced": true,
+      "path": "select/14_If_We_Have_Each_Other_(Always_By_Her_Side)_[Sped_Up_Version]_sped_up_nightcore_&_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sleeping By Her Side",
+      "artist": "John Mayall",
+      "has_synced": false,
+      "path": "select/15_Sleeping_By_Her_Side_John_Mayall.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "As I Sat Sadly By Her Side - 2011 Remastered Version",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": true,
+      "path": "select/16_As_I_Sat_Sadly_By_Her_Side_-_2011_Remastered_Version_Nick_Cave_&_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "by her feat. 茂千代",
+      "artist": "KID FRESINO, 茂千代",
+      "has_synced": false,
+      "path": "select/pl_01_by_her_feat._茂千代_KID_FRESINO,_茂千代.txt"
+    }
+  ]
+}
